@@ -1,0 +1,21 @@
+{
+  "name": "api_with_cypress",
+  "version": "1.0.0",
+  "description": "API test by using cypress.io",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "REST API",
+    "testing",
+    "cypress.io"
+  ],
+  "author": "Monika Bacińska",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^4.5.0",
+    "prettier": "^2.0.5"
+  }
+}
