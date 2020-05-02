@@ -7,5 +7,5 @@ describe('Status code validation test', () => {
       .should('equal', 200)
    
     })
-  
+     
   })
